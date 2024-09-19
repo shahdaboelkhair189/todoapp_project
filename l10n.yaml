@@ -1,0 +1,3 @@
+arb-dir: lib/l10n # mkan el 4ayl feh el translation bta3ty
+template-arb-file: app_en.arb # dh el file el 5as b el eng
+output-localization-file: app_localizations.dart #code byt3mlo generate hena hwa ely 7y3mlo
